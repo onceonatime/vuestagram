@@ -1,0 +1,9 @@
+$border-color: rgb(233, 233, 233);
+$basic-bg-color: rgb(255, 255, 255);
+
+.flexbox {
+  &__between {
+    display: flex;
+    justify-content: space-between;
+  }
+}
